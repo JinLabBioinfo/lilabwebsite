@@ -7,24 +7,24 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please do not hesitate to contact us regarding open positions!
+We are actively recruiting motivated postdocs and graduate students. Please email your request with CV to Dr. Yan Li.
 
 {%
   include button.html
   type="email"
-  text="fxj45@case.edu"
-  link="fxj45@case.edu"
+  text="yxl1379@case.edu"
+  link="yxl1379@case.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(216) 368-1811"
-  link="+1-216-368-1811"
+  text="(216) 368-0305"
+  link="+1-216-368-0305"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Biomedical Research Building, Room 621, 2109 Adelbert Road, Cleveland, Ohio 44106-4955"
+  tooltip="Biomedical Research Building, Room 622, 2109 Adelbert Road, Cleveland, Ohio 44106-4955"
   link="https://maps.app.goo.gl/ckvQA2CJMUUAbAr66"
 %}
 
