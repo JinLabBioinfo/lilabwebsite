@@ -7,7 +7,7 @@
 
 {% include section.html %}
 
-### The Li lab applys functional genomic, epigenomic, and single cell genomic tools to dissect the genetics of complex diseases, such as obesity and diabetes.
+#### The Li lab applys functional genomic, epigenomic, and single cell genomic tools to dissect the genetics of complex diseases, such as obesity and diabetes.
 
 ## Research Areas
 
