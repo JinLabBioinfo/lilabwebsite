@@ -1,1 +1,1 @@
-Sitemap: https://jinlabbioinfo.github.io/lilabwebsite/sitemap.xml
+Sitemap: https://yanlilab.com/sitemap.xml
