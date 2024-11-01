@@ -10,6 +10,7 @@ aliases:
 links:
   email: yxl1379@case.edu
   phone: (216) 368-0305
+  home-page: https://case.edu/medicine/genetics/people/primary-faculty/fulai-jin
   orcid: 0000-0003-1910-6705
   google-scholar: M5nu_XYAAAAJ
 ---
