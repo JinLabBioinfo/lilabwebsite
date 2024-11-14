@@ -54,6 +54,4 @@ We are actively recruiting motivated postdocs and graduate students. Please emai
 
 {% include section.html dark=true %}
 
-**For computational (dry lab) inqueries, please visit [Jin Lab](https://jinlabgenomics.com) website.**
-
 For website maintenance, please email [Jiachen Sun](mailto:jxs2269@case.edu).
