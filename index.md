@@ -42,5 +42,3 @@
 %}
 
 {% include section.html dark=true %}
-
-**See the computational side of us [here](https://jinlabgenomics.com).**
