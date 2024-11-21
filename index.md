@@ -40,5 +40,3 @@
   text=text
   flip=true
 %}
-
-{% include section.html dark=true %}
