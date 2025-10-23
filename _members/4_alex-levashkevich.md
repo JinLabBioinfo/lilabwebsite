@@ -1,6 +1,6 @@
 ---
 name: Alex Levashkevich
-# image: 
+image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/alex-levashkevich.jpg
 description: MD/PhD Candidate (Genetics and Genome Sciences)
 role: phd
 aliases:
