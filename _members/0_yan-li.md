@@ -2,7 +2,6 @@
 name: Yan Li, PhD
 image: https://raw.githubusercontent.com/JinLabBioinfo/labwebsitedata/refs/heads/main/image_members/yan-li.jpg
 role: pi
-affiliation: Case Western Reserve University School of Medicine
 aliases:
   - Yan Li
   - Y. Li
@@ -14,6 +13,8 @@ links:
   home-page: https://case.edu/medicine/genetics/people/primary-faculty/yan-li
   google-scholar: M5nu_XYAAAAJ
 ---
+
+**Vice Chair of Research, Department of Genetics and Genome Sciences**
 
 **Associate Professor, Department of Genetics and Genome Sciences, School of Medicine**
 
